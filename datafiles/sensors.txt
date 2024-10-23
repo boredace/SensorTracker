@@ -1,0 +1,8 @@
+Id,Name,Measurements
+1,DS18B20,1
+2,ADC Voltage,2
+3,PMS7003,3|4|5
+4,FS3000,6
+5,SCD40,1|7|8
+6,BME680,1|8|9|10|11
+7,TMP100,1

@@ -1,0 +1,12 @@
+Id,Name,Units
+1,Temperature,C or F
+2,Voltage,V or mV
+3,PM1.0,µg/m3
+4,PM2.5,µg/m3
+5,PM10,µg/m3
+6,Air Velocity,m/s or mph
+7,CO2,ppm
+8,Humidity,%
+9,Pressume,hPa
+10,Gas Resistance (VOC),KOhms
+11,Altitude,meters
